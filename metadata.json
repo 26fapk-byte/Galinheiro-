@@ -1,0 +1,5 @@
+{
+  "name": "Galinheiro - Controle Interno",
+  "description": "Sistema de controle de estoque e requisição de materiais com interface inspirada em apps de delivery, incluindo integração com WhatsApp e gestão administrativa.",
+  "requestFramePermissions": []
+}
